@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Megan 👋
 
 <!--
-**MegaBytes17/MegaBytes17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm Head of Software Engineering at D3. I have the unique perspective of having been in every role in the SDLC. 
+- 🌱 Due to NDAs, I can't tell you what we're working on but know that it's some really cool embedded and AI code!
+## 🧑‍💻 What I’m Passionate About
+- Building high-performing teams
+- Making engineering processes smoother
+- Mentoring new engineers and students
+- Combining my love of engineering with business
+## ☕ Let's Connect
+- [LinkedIn](https://linkedin.com/in/megankthompson/)
+- [Email Me](mailto:megan.thompson7737@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a Girl Scout leader and absolutely love scouts!
 -->
